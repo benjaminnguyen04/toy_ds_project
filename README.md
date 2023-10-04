@@ -1,3 +1,3 @@
 # toy_ds_project
-project creation date: 10/04/2023
-author: Ben Nguyen
+**Project Creation Date:** 10/04/2023
+**Author:** Ben Nguyen
